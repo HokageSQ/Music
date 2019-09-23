@@ -1,6 +1,6 @@
-token= NjI1ODMxNzE0OTU4MzQ0MTky.XYlRbw.k-sLtdhmQmBbCICUlmLNn6AlkYE
+token= NjI1ODMxNzE0OTU4MzQ0MTky.XYlUeA.B5LpLihvoU4gSzw9Q8ZRIh82wds
 owner= 320382727922909185
-prefix= $
-game= $play - Author HokageSQ @AK9G
+prefix= d
+game= dplay - Author HokageSQ @AK9G
 stayinchannel=true
 songinstatus=true
