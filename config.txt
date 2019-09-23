@@ -1,6 +1,6 @@
-token= NjI1ODMxNzE0OTU4MzQ0MTky.XYlY1A.boYE2-sCgnLHnA4UQMG6wZtRLic
-owner= 320382727922909185
-prefix= d
-game= dPlay
+token=NjI1ODMxNzE0OTU4MzQ0MTky.XYlY1A.boYE2-sCgnLHnA4UQMG6wZtRLic
+owner=320382727922909185
+prefix=$
+game=$Play - Author HokageSQ @AK9G
 stayinchannel=true
 songinstatus=false
